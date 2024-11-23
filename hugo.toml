@@ -1,4 +1,47 @@
 baseURL = "https://jules-barbe.xyz/"
 languageCode = 'en-us'
-title = 'my website :3'
+# title = 'my website :3'
 theme = 'hugo-coder'
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Jules Barbe"
+  info = ""
+  description = "my website:3"
+  keywords = "blog,developer,personal, AI, ML"
+  avatarurl = "kirby-transparent.png"
+  # gravatar = ""
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/JulesBarbe"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/jules-b-b2273210b/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://x.com/__berb"  

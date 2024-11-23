@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my website :3</title>
-    <link>http://localhost:50973/</link>
-    <description>Recent content on my website :3</description>
+    <title></title>
+    <link>https://jules-barbe.xyz/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:50973/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jules-barbe.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jules-barbe.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jules-barbe.xyz/about/</guid>
+      <description>&lt;p&gt;wooooo&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

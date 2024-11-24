@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://jules-barbe.xyz/</link>
-    <description>Recent content on </description>
+    <title>Jules Barbe</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jules Barbe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jules-barbe.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://jules-barbe.xyz/about/</link>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jules-barbe.xyz/about/</guid>
-      <description>&lt;p&gt;wooooo&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hey-there&#34;&gt;&#xA;  Hey there!&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hey-there&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a fresh new grad from McGill University up there in the great north.&#xA;I started my degree in Linguistics, but gradually pivoted to Computer Science, in which I graduated with a 3.8 CGPA and distinctions.&#xA;I have research experience in AI&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a boundlessly curious person&#xA;I&amp;rsquo;m currently specialized in AI, on the LLM side of things, but am also interested in FP and distributed systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact me by email at &lt;a href=&#34;mailto:ajules32@gmail.com&#34; &gt;ajules32@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Here are some of my past and current projects. (non exhaustive!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;current&#34;&gt;&#xA;  Current&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#current&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Matchups:&lt;/strong&gt; Making a website to visualize character matchups in fighting games, as well as calculating optimal roster combinations for matchup coverage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GENPC:&lt;/strong&gt; RAG NPC creator and dialogue generation webapp with dynamic conversation triggers based on sentiment metrics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;past-projects&#34;&gt;&#xA;  Past projects&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#past-projects&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Planet Generator:&lt;/strong&gt; My first ever coding project. Customizable procedural planet generation in Unity with editor scrips and noise maps. Might come back to it to make a full plugin with new features, such as simulated water erosion, and gpu-based generation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fake News Corrector:&lt;/strong&gt; [deprecated] Project for McGill&amp;rsquo;s MAIS 202 AI bootcamp. Experimental ML-based fake news detection and correciton using text-based neural networks, sentiment analysis and topic modelling. Ran as a standalone app or chrome extension. Returns a confidence score based on the tone and language used on a webpage. Returns list of alternative articles from trusted news sources with similar topics queried from News API for low confidence scores.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

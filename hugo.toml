@@ -11,7 +11,7 @@ style = "github-dark"
   info = ""
   description = "my website:3"
   keywords = "blog,developer,personal, AI, ML"
-  avatarurl = "kirby-transparent.png"
+  avatarurl = "kirby_high_res.png"
   # gravatar = ""
 
   faviconSVG = "/img/favicon.svg"

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jules-barbe.xyz/</loc>
     <lastmod>2024-11-22T19:26:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://jules-barbe.xyz/posts/</loc>
     <lastmod>2024-11-22T19:26:57-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jules-barbe.xyz/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jules-barbe.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://jules-barbe.xyz/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://jules-barbe.xyz/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jules-barbe.xyz/tags/</loc>
   </url>
 </urlset>

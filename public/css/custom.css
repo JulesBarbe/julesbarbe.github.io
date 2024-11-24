@@ -1,0 +1,15 @@
+@keyframes flip {
+    0%, 100% {
+      transform: scaleX(1); }
+    50% {
+      transform: scaleX(-1); } }
+
+.avatar img {
+  animation: flip 2s steps(1) infinite;
+  backface-visibility: hidden;
+  width: 20rem;
+  height: auto;
+  border-radius: 50%; }
+  @media only screen and (max-width: 768px) {
+    .avatar img {
+      width: 17rem; } }

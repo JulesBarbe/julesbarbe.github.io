@@ -1,5 +1,5 @@
 +++
-title = "My Projects"
+title = "Projects"
 +++
 
 Here are some of my past and current projects. (non exhaustive!)

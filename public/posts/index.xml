@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jules Barbe</title>
-    <link>https://jules-barbe.xyz/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Jules Barbe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://jules-barbe.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 22:46:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a builder</title>
+      <link>http://localhost:1313/posts/builder/</link>
+      <pubDate>Thu, 28 Nov 2024 22:46:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/builder/</guid>
+      <description>&lt;p&gt;I have spent most of my life passively consuming. Taking in all this knowledge, and for what? I need to &lt;em&gt;do&lt;/em&gt;. and &lt;em&gt;make&lt;/em&gt;.&#xA;I am reminded of the Bolognese &lt;em&gt;umarî&lt;/em&gt;: old men who spend their days watching construction sites, offering unsolicited advice to the workers.&lt;/p&gt;&#xA;&lt;p&gt;the consumer turns builder&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doing your best</title>
+      <link>http://localhost:1313/posts/your-best/</link>
+      <pubDate>Thu, 28 Nov 2024 22:15:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/your-best/</guid>
+      <description>&lt;p&gt;Sometimes it&amp;rsquo;s painful to look back. We all wish we could&amp;rsquo;ve done things differently. If I had grinded harder on side-projects and leetcode, I might not be unemployed right now! But there&amp;rsquo;s and I imagine as the amount of days passed increases, so will my grief.&lt;/p&gt;&#xA;&lt;p&gt;As granddad put it,&lt;/p&gt;&#xA;&lt;p&gt;- &lt;em&gt;What do you do when you can&amp;rsquo;t do nothing, but there&amp;rsquo;s nothing you can do?&lt;/em&gt;&#xA;- &lt;em&gt;You do what you can.&lt;/em&gt;&#xA;Robert Freeman, &amp;ldquo;The Hunger Strike.&amp;rdquo; The Boondocks&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
